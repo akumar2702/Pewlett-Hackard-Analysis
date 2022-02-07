@@ -11,6 +11,7 @@
 <img width="404" alt="Screen Shot 2022-02-07 at 1 31 29 AM" src="https://user-images.githubusercontent.com/95302013/152736664-ceb688a2-3480-4f0e-a79d-a04325cf9d7d.png">
 
 * ### Mentorship Eligibility Table
+### There are 1549 employees that can mentor.
 <img width="851" alt="Screen Shot 2022-02-07 at 1 28 24 AM" src="https://user-images.githubusercontent.com/95302013/152736851-1051b363-739f-452c-afec-6f64f891e13b.png">
 
 * ### Unique Titles Table
